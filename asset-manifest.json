@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GMAT-Flashcards/static/css/main.1e5e9992.css",
-    "main.js": "/GMAT-Flashcards/static/js/main.10e853d9.js",
+    "main.js": "/GMAT-Flashcards/static/js/main.b679ca44.js",
     "index.html": "/GMAT-Flashcards/index.html",
     "main.1e5e9992.css.map": "/GMAT-Flashcards/static/css/main.1e5e9992.css.map",
-    "main.10e853d9.js.map": "/GMAT-Flashcards/static/js/main.10e853d9.js.map"
+    "main.b679ca44.js.map": "/GMAT-Flashcards/static/js/main.b679ca44.js.map"
   },
   "entrypoints": [
     "static/css/main.1e5e9992.css",
-    "static/js/main.10e853d9.js"
+    "static/js/main.b679ca44.js"
   ]
 }
